@@ -1,2 +1,3 @@
 Our game has only feature of single player
 Team added the multiple player feature to the game
+I have added the feature of color changing while playing game.
